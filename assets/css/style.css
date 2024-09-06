@@ -75,7 +75,11 @@ body {
   align-content: end;
   text-decoration: none;
 }
-
+.banner {
+  background-image: url("../imagens/banner.jpg");
+  background-position: center;
+  background-image: cover;
+}
 .container-banner {
   display: flex;
   justify-content: space-between;
